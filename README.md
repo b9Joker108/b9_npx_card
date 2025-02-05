@@ -34,3 +34,8 @@ npx beauford
 ### 💻 Rahi Khan's [Github repo](https://github.com/beyourahi/npx_card) for this project.
 
 ### 💻 Beauford A. Stenberg's [Github repo](https://github.com/beyourahi/npx_card) for this project.
+
+### TODO
+
+* Update code to get rid of deprecations and old depencies to make code robust
+* Record Demo of my personal/business card, upload to repo and replace current Demo in README.md
